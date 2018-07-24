@@ -1,5 +1,4 @@
 .svn
-config.yml
 *.db
 *.sqlite3
 *.swp
@@ -18,4 +17,3 @@ resources/dev
 .bundle
 .vagrant
 Vagrantfile
-Gemfile.lock
